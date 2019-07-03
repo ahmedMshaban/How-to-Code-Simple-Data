@@ -5095,7 +5095,7 @@
 0 0 -1 -1 2 1 #"\0"
 0 -1 1 #"\0"
 1.0 0 -1 92 -1 93 -1 -1 0 1 0 0 0 0 0.0 0.0 0.0 1.0 1.0 1.0 255 38 39 0
-0 0 -1 -1           0 1128 0 4 3 85
+0 0 -1 -1           0 1126 0 4 3 85
 (
  #";; The first three lines of this file were inserted by DrRacket. The"
  #"y record metadata"
@@ -5127,7 +5127,7 @@
 0 0 17 3 35 #";; making-rain-filtered-starter.rkt"
 0 0 24 29 1 #"\n"
 0 0 24 29 1 #"\n"
-0 9        1975 21           0 0           0 328 0 24 29 1 #"\n"
+0 9        1969 21           0 0           0 327 0 24 29 1 #"\n"
 0 0 14 3 8 #"PROBLEM:"
 0 0 24 29 1 #"\n"
 0 0 24 29 1 #"\n"
@@ -5213,8 +5213,7 @@
 0 0 14 3 3 #"and"
 0 0 24 3 1 #" "
 0 0 19 3 1 #"\""
-0 0 19 3 8 #"fall off"
-0 0 19 3 1 #"\""
+0 0 19 3 9 #"fall off\""
 0 0 28 3 1 #"."
 0 0 24 3 1 #" "
 0 0 14 3 3 #"You"
@@ -6276,8 +6275,7 @@
 0 0 24 29 1 #"\n"
 0 0 24 29 1 #"\n"
 0 0 17 3 2 #";("
-0 0 17 3 6 #"define"
-0 0 17 3 27 #" (fall-off? d) false) ;stub"
+0 0 17 3 33 #"define (fall-off? d) false) ;stub"
 0 0 24 29 1 #"\n"
 0 0 24 29 1 #"\n"
 0 0 17 3 26 #";; Took template from Drop"
@@ -6434,8 +6432,7 @@
 0 0 24 29 1 #"\n"
 0 0 17 3 2 #";("
 0 0 17 3 6 #"define"
-0 0 17 3 20 #" (render-drops lod) "
-0 0 17 3 10 #"MTS) ;stub"
+0 0 17 3 30 #" (render-drops lod) MTS) ;stub"
 0 0 24 29 1 #"\n"
 0 0 24 29 1 #"\n"
 0 0 17 3 32 #";; Took template from ListOfDrop"
